@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router-tutorial/static/css/main.e5eeb520.css",
+    "main.js": "/react-router-tutorial/static/js/main.251a9e55.js",
+    "index.html": "/react-router-tutorial/index.html",
+    "main.e5eeb520.css.map": "/react-router-tutorial/static/css/main.e5eeb520.css.map",
+    "main.251a9e55.js.map": "/react-router-tutorial/static/js/main.251a9e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5eeb520.css",
+    "static/js/main.251a9e55.js"
+  ]
+}
